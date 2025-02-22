@@ -1,3 +1,6 @@
+// Aleksandr Ainidinov 8905450
+// 2025-02-21 6:30:00 PM
+
 const express = require('express');
 const router = express.Router();
 const { Inventory } = require('../models/Inventory');

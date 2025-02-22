@@ -1,3 +1,6 @@
+// Aleksandr Ainidinov 8905450
+// 2025-02-21 6:30:00 PM
+
 const { DataTypes } = require('sequelize');
 const { sequelize } = require('./Inventory');
 //const { all } = require('../server');
